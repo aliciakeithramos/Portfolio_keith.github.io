@@ -1,0 +1,242 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color:#E9ECEF;
+}
+
+
+        .H1 {
+            text-align: center; 
+            color: #1F3A5F; 
+            font:Georgia;  
+            font-weight:Bold; 
+            margin:10px;
+        }
+
+        .H2 {
+            text-align:Center; 
+            color: #1F3A5F; 
+            font:Georgia; 
+            font-size:24px; 
+            font-weight:bold; 
+            margin:5px;
+        }
+
+    hr {
+        border-top:2px solid #1F3A5F; 
+        width:700px; 
+        margin:15px auto;
+    }
+
+    .my-pic {
+        width:220px;
+        height:260px; 
+        background-color:#F3F6F9; 
+        border:2px solid #1F3A5F; 
+        border-radius:8px; 
+        padding:8px; 
+        display:block; 
+        margin:auto;
+    }
+
+    .a {
+        background-color:#FFFFFF; 
+        border:4px solid #1F3A5F; 
+        border-radius:10px; 
+        margin:20px 0; 
+        width:auto; 
+        padding:10px;
+    }
+
+    .b {
+        width:450px; 
+        display:inline-block; 
+        vertical-align:top; 
+        margin-left:40px;
+    }
+
+    .H3 {
+        color:#1F3A5F; 
+        Font:Georgia; 
+        font-size:25px; 
+        font-weight:bold; 
+        text-align:left;
+    }
+    
+    .info {
+        color:#333333; 
+        font:Arial; 
+        size:16px; 
+        text-align:left;
+    }
+
+    .c {
+        width:6500px; 
+        display:inline-block; 
+        vertical-align:top; 
+        margin-left:30px;
+    }
+
+    .educ-info {
+        color:#1F3A5F; 
+        Font:Georgia; 
+        font-size:25px; 
+        font-weight:bold; 
+        text-align:left;
+
+    }
+
+    .H4 {
+        color:#1F3A5F; 
+        font:Georgia; 
+        size:22px; 
+        font-weight:bold; 
+        text-align:left; 
+        margin-left:30px;
+    }
+
+    .d {
+        background-color:#FFFFFF; 
+        border:4px solid #1F3A5F; 
+        border-radius:10px; 
+        margin:20px 0; 
+        width:auto; 
+        padding:10px;
+    }
+
+   
+    .f{
+        width:450px; 
+        display:inline-block; 
+        vertical-align:top;
+        margin-left:40px;
+    }
+
+    h3 {
+        color:#1F3A5F; 
+        font:georgia;
+        size:16px; 
+        text-align:left;
+    }
+
+     p {
+        color:#333333;
+    }
+
+    .green {
+        color:white; 
+        border:2px solid Green; 
+        width:300px;
+        background-color:Green;
+    }
+
+   
+
+    .g {
+        width:450px; 
+        display:inline-block; 
+        vertical-align:top;
+        margin-left:30px;
+    }
+
+    .g li {
+        color:#333333;
+    }
+
+    .h {
+        width:450px; 
+        display:inline-block; 
+        vertical-align:top;
+        margin-left:30px;
+    }
+
+    h2 {
+        color:#1F3A5F; 
+        font: Georgia;
+        size:24px; 
+        font-weight:bold;
+        text-align: center;
+    }
+
+    .family-pic {
+        width: 700px;
+        height:600px; 
+        border:2px solid #617281; 
+        border-radius: 10px; 
+        margin: 20px auto; 
+        padding:8px; 
+        display:block;
+    }
+
+   
+
+    .my-video {
+        width:550px; 
+        height:auto; 
+        border:2px solid #617281; 
+        border-radius:8px; 
+        display:block; 
+        margin:20px auto; 
+        padding:5px; 
+    }
+
+    .pet-1 {
+        width:250px; 
+        height:170px; 
+        border-radius:8px; 
+        border: 3px solid #D9E1E8; 
+        margin:10px;
+    }
+
+    .pet-2 {
+        width:250px; 
+        height:170px; 
+        border-radius:8px; 
+        border: 3px solid #D9E1E8; 
+        margin:10px;
+    }
+
+    .pet-3 {
+        width:250px; 
+        height:170px; 
+        border-radius:8px; 
+        border: 3px solid #D9E1E8; 
+        margin:10px;
+    }
+
+    .pet-4 {
+        width:250px; 
+        height:170px; 
+        border-radius:8px; 
+        border: 3px solid #D9E1E8; 
+        margin:10px;
+    }
+
+    .abb-it {
+        color:#1F3A5F; 
+        font:Georgia; 
+        font-size:24px; 
+        font-weight:bold; 
+        text-align:left; 
+        margin-left:30px;
+    }
+
+    .j {
+        background-color:#F3F6F9; 
+        border:1px solid #333333; 
+        border-radius:8PX; 
+        text-align:left; 
+        padding:20px; 
+        color:#333333; 
+        font-size:16px; 
+        font-family:Arial;
+    }
+
+    .footers {
+        background-color:#F3F6F9; 
+        padding:5px 5px; 
+        text-align: center;
+    }
